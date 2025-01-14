@@ -1,6 +1,6 @@
-# Curso de Python 3
- Curso de 120 horas sobre python 3 **(Completo)**. Professor [Gustavo Guanabara](https://github.com/gustavoguanabara)
-<img src="imagens/Personagem.png" align="left" width="150" height="150px">
+# Curso de Python 3 - <img src="https://img.icons8.com/?size=48&id=13441&format=png" width="30" height="30px">
+ 120 horas sobre python 3 **(Completo)**. Professor [Gustavo Guanabara](https://github.com/gustavoguanabara).
+
 * [Meu perfil do linkedin](https://www.linkedin.com/in/weslley-richard/)
 * [Youtube do Curso Em Vídeo](https://www.youtube.com/cursoemvideo)
 ## Direitos de uso
